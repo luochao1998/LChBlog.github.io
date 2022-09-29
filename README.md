@@ -5,24 +5,17 @@ modules:
   - Blog
   - Footer
 banner:
-  bgImage: '/bg.svg'
+  bgImage: '/my_bgc.webp'
   bgImageStyle: {
     height: '550px'
   }
-  # heroImage: /hero_black.png
-  heroImageStyle: {
-    maxHeight: '100px',
-    display: block,
-    margin: '5rem auto 0'
-  }
-  heroText: 午后南杂
+  heroText: LCh
   tagline: Enjoy when you can, and endure when you must.
 blog:
   socialLinks:
-    - { icon: 'BrandGithub', link: 'https://github.com/recoluan' }
-    - { icon: 'BrandTwitter', link: 'https://twitter.com/reco_luan' }
+    - { icon: 'BrandGithub', link: 'https://github.com/luochao1998/LChBlog.github.io' }
 footer:
-  startYear: '2017'
+  startYear: '2022'
 # actionText: About Me
 # actionLink: /views/personalInfo/
 # features:
