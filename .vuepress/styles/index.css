@@ -9,3 +9,10 @@
 .navbar-container{
   box-shadow: 0 1px 8px 0 rgb(0 0 0 / 10%);
 }
+.site-name{
+  text-align: center;
+}
+.banner-wrapper{
+  background: url(/LChBlog.github.io/my_bgc.webp) center center !important;
+  margin-top: 56px;
+}

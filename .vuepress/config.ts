@@ -6,7 +6,7 @@ export default defineUserConfig({
   description: 'Enjoy when you can, and endure when you must.',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: '/browserLogo.png' }],
+    ['link', { rel: 'icon', href: '/browser.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
   ],
   base:'/LChBlog.github.io/',
@@ -38,7 +38,8 @@ export default defineUserConfig({
         // hideComments: true
       },
     },
-    autoAddCategoryToNavbar: true
+    autoAddCategoryToNavbar: true,
+    password: 'de1737f4e8ef91bb48c9347952e2ddb5'
   }),
   lang: 'zh-CN',
 })

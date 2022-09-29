@@ -14,7 +14,7 @@ cd public
 
 git init
 git add -A
-git commit -m '测试脚本'
+git commit -m '更换浏览器图标'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
