@@ -6,7 +6,7 @@ export default defineUserConfig({
   description: 'Enjoy when you can, and endure when you must.',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: '/banner_2.png' }],
+    ['link', { rel: 'icon', href: '/browserLogo.png' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
   ],
   base:'/LChBlog.github.io/',
