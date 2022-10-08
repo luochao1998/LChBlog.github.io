@@ -16,3 +16,13 @@
   background: url(/LChBlog.github.io/my_bgc.webp) center center !important;
   margin-top: 56px;
 }
+
+/* 评论时算数校验结果输入框 */
+.valert .vcode{
+  background: grey !important;
+}
+
+.theme-reco-default-content code{
+  background-color: #fff4f4 !important;
+  color: #c2185b;
+}
