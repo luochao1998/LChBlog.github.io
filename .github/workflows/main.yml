@@ -28,7 +28,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ACCESS_TOKEN: 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 # 也就是我们刚才生成的 secret
           BRANCH: gh-pages # 部署到 gh-pages 分支，因为 master 分支存放的一般是源码，而 gh-pages 分支则用来存放生成的静态文件
           FOLDER: public # vuepress 生成的静态文件存放的地方
