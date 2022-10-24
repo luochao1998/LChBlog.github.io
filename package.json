@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "recoluan's blog",
   "main": "index.js",
-  "repository": "http://recoluan.gitlab.io",
+  "repository": "https://github.com/luochao1998/LChBlog.github.io",
   "author": "LCh",
   "license": "MIT",
   "scripts": {
