@@ -20,6 +20,10 @@ export default defineUserConfig({
     lastUpdatedText: '',
     navbar: [
       {
+        text: '微信小程序学习',
+        link:'/blogs/weixin/2022/111801.md'
+      },
+      {
         text: 'Contact',
         children: [
           { text: 'GitHub', link: 'https://github.com/luochao1998/LChBlog.github.io' },
@@ -39,7 +43,6 @@ export default defineUserConfig({
       },
     },
     autoAddCategoryToNavbar: true,
-    password: 'de1737f4e8ef91bb48c9347952e2ddb5'
   }),
   lang: 'zh-CN',
 })
